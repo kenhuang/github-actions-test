@@ -141,3 +141,5 @@ Temporary Items
 Pipfile
 
 .idea/
+
+node_modules

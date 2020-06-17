@@ -5,6 +5,4 @@ This repository adheres to semantic versioning and follows the conventions of [k
 
 ### Changed
 
-- test
-
 
