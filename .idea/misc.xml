@@ -6,14 +6,4 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../github/gatling-kafka" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="ScalaSbtSettings">
-    <option name="customVMPath" />
-  </component>
 </project>
